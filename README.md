@@ -60,8 +60,6 @@ lab8_php_database/
 ├── hapus.php
 ├── style.css
 │
-├── database.sql
-│
 └── gambar/
     ├── Hp_Samsung_S25_Ram_12GB_Internal_256GB_Garansi_Resmi_Silver_Shadow.jpg
     ├── Xiaomi_Mi_12T_5G_Ram_8_Rom_256GB_Putih.jpg
